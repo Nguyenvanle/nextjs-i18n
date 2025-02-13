@@ -1,0 +1,9 @@
+{
+  "hello": "Hello",
+  "welcome": "Welcome to {{name}}",
+  "language": {
+    "vietnamese": "Vietnamese",
+    "english": "English"
+  },
+  "users": "Users"
+}
